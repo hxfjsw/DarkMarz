@@ -14,7 +14,7 @@ gamefi项目为名为为“DarkMaze”，旨在旨在全球范围的游戏爱好
 ![](glassland/update1-2.gif)
 
 ## 人物背包
-![](glassland/UPDATE1-3.gif)
+![](glassland/UPDATE_1-3_2.gif)
 
 ## 地下城（牢房）
 ![](prison/Mockups/mockup-2.gif)
