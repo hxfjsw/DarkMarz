@@ -8,13 +8,25 @@ gamefi项目为名为为“DarkMaze”，旨在旨在全球范围的游戏爱好
 
 # 游戏截图
 ## 主城
-![img.png](img.png)
+![](glassland/mock up2.png)
+
 ## 装备合成
-![img_1.png](img_1.png)
+![](glassland/update 1-2.gif)
+
 ## 人物背包
-![img_2.png](img_2.png)
-## 地下城
-![img_3.png](img_3.png)
+![](glassland/UPDATE 1-3.gif)
+
+## 地下城（牢房）
+![](prison/Mockups/mockup-2.gif)
+
+## 地下城（房间）
+![](prison/Mockups/mockup-4 - close.gif)
+
+## 地下城（机关）
+![](prison/Mockups/mockup-5.gif)
+
+## 地下城（怪物1）
+![](prison/Mockups/mockup-Assassin like enemy - animations.gif)
 
 # 市场分析
 我们的产品是一款去中心化虚拟世界游戏，允许用户通过使用加密货币进行交易、购买虚拟物品以及参与社区活动。我们的游戏将提供各种游戏模式和活动，包括角色扮演游戏、策略游戏和多人在线竞技游戏等，以满足不同用户的需求。我们的经济模型将采用通证制度，让用户可以通过参与游戏活动获得收益，同时也可以使用通证购买虚拟物品和服务。
