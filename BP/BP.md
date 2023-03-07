@@ -8,7 +8,7 @@ gamefi项目为名为为“DarkMaze”，旨在旨在全球范围的游戏爱好
 
 # 游戏截图
 ## 主城
-![](glassland/mock up2.png)
+![1](glassland/mock up2.png)
 
 ## 装备合成
 ![](glassland/update 1-2.gif)
