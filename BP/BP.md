@@ -6,10 +6,9 @@ https://hxfjsw.github.io/DarkMarz/
 # 概要
 gamefi项目为名为为“DarkMaze”，旨在旨在全球范围的游戏爱好者一带来一种全新全新的游戏体验。我们的的核心核心目通过加密货币实现一个去中心化的虚拟世界，同时为用户提供更多可持续和有意义的游戏玩法。
 
-![](glassland/mock up2.png)
-
 # 游戏截图
 ## 主城
+![](glassland/mockup2.png)
 
 ## 装备合成
 ![](glassland/update 1-2.gif)
